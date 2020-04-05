@@ -1,2 +1,2 @@
-# Web_Teknoloji_Proje-devi
+# Web_Teknoloji_Proje-Odevi
 Ödev 1
